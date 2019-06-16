@@ -65,3 +65,6 @@ g = Graph(row, col, graph)
   
 print ("Number of Characters are :")
 print (g.countCharacter())  
+
+Number of Characters are :
+1
